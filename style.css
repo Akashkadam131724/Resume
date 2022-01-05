@@ -26,8 +26,8 @@ background-color: black;
 .right-section{
 
 /* width: 90%; */
-    width: 100%;
-    padding: 0px;
+/*     width: 100%; */
+/*     padding: 0px; */
 /* grid-column-start: span 700px; */
 grid-column: span 1/ span 2;
 }
@@ -136,6 +136,12 @@ grid-column: span 1/ span 2;
     margin : 0px;
     padding : 0px;
 }
+    .right-section{
+        width: 100%;
+        padding: 0;
+        margin : 0;
+    
+    }
 }
 ul li{
     /* list-style-type: none; */
