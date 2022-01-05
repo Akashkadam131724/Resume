@@ -95,30 +95,30 @@ grid-column: span 1/ span 2;
 }
 .right-main-content{
     padding:2rem 3rem;
-    width: 100%;
+/*     width: 100%; */
     
 }
 .about-section{
     margin-bottom: 20px;
-    margin-left:0px;
-    width: 100%;
+/*     margin-left:0px; */
+/*     width: 100%; */
 }
 .education-section{
     margin-bottom: 20px;
-     margin-left:0px;
-    width: 100%
+/*      margin-left:0px; */
+/*     width: 100% */
     
 }
 .experience-section{
     
      margin-bottom: 20px;
-     margin-left:0px;
-    width: 100%;
+/*      margin-left:0px; */
+/*     width: 100%; */
     }
     .project-section{
     margin-bottom: 20px;
-         margin-left:0px;
-        width: 100%
+/*          margin-left:0px; */
+/*         width: 100% */
 
 }
 .right-title{
