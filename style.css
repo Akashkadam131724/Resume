@@ -26,6 +26,8 @@ background-color: black;
 .right-section{
 
 /* width: 90%; */
+    width: 100%;
+    padding: 0px;
 /* grid-column-start: span 700px; */
 grid-column: span 1/ span 2;
 }
