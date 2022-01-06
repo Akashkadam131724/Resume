@@ -145,6 +145,10 @@ grid-column: span 1/ span 2;
     margin : 0px;
     padding : 0px;
 }
+    .right-main-content {
+    padding: 10px 10px;
+    width: 100%;
+}
     .right-section{
         width: 100%;
         padding: 0;
